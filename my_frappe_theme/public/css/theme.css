@@ -1,0 +1,9 @@
+.body-sidebar {
+	background-color: #e2efff;
+}
+
+.list-row-head,
+.list-row-head .level-right {
+	background: #e2efff;
+	font-weight: bold;
+}
