@@ -7,3 +7,11 @@
 	background: #e2efff;
 	font-weight: bold;
 }
+.body-sidebar .standard-sidebar-item .sidebar-item-label {
+	font-size: var(--text-md);
+}
+
+:root,
+[data-theme="light"] {
+	--page-max-width: 1200px !important;
+}
